@@ -3,18 +3,18 @@
 Application that calculates income and expense
 
 ## Features
--Core Data
--DatePicker (on TextField)
--PickerView (on TextField)
--Filter to Core Data by type
--Filter to Core Data bt Date
--Filter between to dates
--Sorting Date
--Graphic Summary
--Tableview
--Extension
--Delete, edit, add
--Swipe Actions
+- Core Data
+- DatePicker (on TextField)
+- PickerView (on TextField)
+- Filter to Core Data by type
+- Filter to Core Data bt Date
+- Filter between to dates
+- Sorting Date
+- Graphic Summary
+- Tableview
+- Extension
+- Delete, edit, add
+- Swipe Actions
 
 
 ## Screens
